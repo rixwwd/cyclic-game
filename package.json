@@ -1,0 +1,23 @@
+{
+  "name": "cyclic-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://rixwwd@github.com/rixwwd/cyclic-game.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rixwwd/cyclic-game/issues"
+  },
+  "homepage": "https://github.com/rixwwd/cyclic-game#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
